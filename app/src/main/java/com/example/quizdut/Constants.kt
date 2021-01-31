@@ -2,6 +2,10 @@ package com.example.quizdut
 
 object Constants {
 
+    const val USER_NAME: String = "user_name"
+    const val TOTAL_QUESTIONS: String = "total_questions"
+    const val CORRECT_ANSWERS: String = "correct_answers"
+
     fun getQuestions(): ArrayList<Question>{
         val questionsList = ArrayList<Question>()
 
@@ -121,6 +125,7 @@ object Constants {
         questionsList.add(que4)
         questionsList.add(que5)
         questionsList.add(que6)
+        questionsList.add(que7)
         questionsList.add(que8)
         questionsList.add(que9)
         questionsList.add(que10)

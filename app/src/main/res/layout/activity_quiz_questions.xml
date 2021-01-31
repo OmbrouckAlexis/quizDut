@@ -30,7 +30,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="-120dp"
             android:layout_marginBottom="-140dp"
-            android:src="@drawable/angus_young"/>
+            android:src="@drawable/angus_young" />
 
         <LinearLayout
             android:id="@+id/progress_details"
