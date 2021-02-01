@@ -70,9 +70,9 @@ object Constants {
             R.drawable.george_harrison,
             option1 = "Eddie Van Halen",
             option2 = "Scotty Moore",
-            option3 = "Nels Cline",
-            option4 = "George Harrison",
-            correctAnswer = 4
+            option3 = "George Harrison",
+            option4 = "Jimmy Page",
+            correctAnswer = 3
         )
 
         val que7 = Question(
@@ -103,9 +103,9 @@ object Constants {
             R.drawable.kurt_cobain,
             option1 = "Jeff Beck",
             option2 = "Pete Townshend",
-            option3 = "Curt Kobain",
-            option4 = "Kurt Cobain",
-            correctAnswer = 4
+            option3 = "Kurt Cobain",
+            option4 = "Damien Saez",
+            correctAnswer = 3
         )
 
         val que10 = Question(
