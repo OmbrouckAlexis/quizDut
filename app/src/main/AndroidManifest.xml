@@ -9,14 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.QuizDut">
-        <activity android:name=".ResultActivity"
+        <activity android:name="fr.iutlens.ombrouck_arnault.quiz.ResultActivity"
             android:screenOrientation="portrait">
         </activity>
         <activity
-            android:name=".QuizQuestionsActivity"
+            android:name="fr.iutlens.ombrouck_arnault.quiz.QuizQuestionsActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".MainActivity"
+            android:name="fr.iutlens.ombrouck_arnault.quiz.MainActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="adjustResize">
             <intent-filter>

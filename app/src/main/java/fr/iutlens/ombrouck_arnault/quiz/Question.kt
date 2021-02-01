@@ -1,4 +1,4 @@
-package com.example.quizdut
+package fr.iutlens.ombrouck_arnault.quiz
 
 data class Question (
     val id: Int,

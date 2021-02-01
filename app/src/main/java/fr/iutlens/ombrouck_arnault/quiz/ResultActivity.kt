@@ -1,9 +1,10 @@
-package com.example.quizdut
+package fr.iutlens.ombrouck_arnault.quiz
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
+import com.example.quizdut.R
 import kotlinx.android.synthetic.main.activity_result2.*
 
 class ResultActivity : AppCompatActivity() {

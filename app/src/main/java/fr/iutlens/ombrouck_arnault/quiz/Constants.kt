@@ -1,4 +1,6 @@
-package com.example.quizdut
+package fr.iutlens.ombrouck_arnault.quiz
+
+import com.example.quizdut.R
 
 object Constants {
 
